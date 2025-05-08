@@ -1,8 +1,13 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# ttihp0p3-fun-vga-clock: A Tiny Tapeout Verilog project based on Matt Venn's VGA Clock
+
+![Matt Venn's Clock plus a bouncing ball](./docs/bouncing-ball-clock.png)
 
 - [Read the documentation for project](docs/info.md)
+
+NOTE: This is an updated version of the one I submitted on ttihp25a. It has just a little more visual flair.
+
 
 ## What is Tiny Tapeout?
 
