@@ -59,7 +59,7 @@ module tb ();
   assign ui_in[0] = adj_sec;
 
   // Replace tt_um_example with your module name:
-  tt_um_algofoogle_vga user_project (
+  tt_um_algofoogle_fun_vga_clock user_project (
       .ui_in  (ui_in),    // Dedicated inputs
       .uo_out (uo_out),   // Dedicated outputs
       .uio_in (uio_in),   // IOs: Input path
